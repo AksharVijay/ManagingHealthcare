@@ -1,3 +1,6 @@
 [submodule "FrontendMH"]
 	path = FrontendMH
 	url = https://github.com/AksharVijay/FrontendMH.git
+[submodule "BackendMH"]
+	path = BackendMH
+	url = https://github.com/AksharVijay/BackendMH.git
